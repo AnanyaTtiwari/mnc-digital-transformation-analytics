@@ -1,0 +1,56 @@
+company_name,industry,founded_year,revenue_usd_bn,digital_maturity_score,key_technologies,digital_category
+Walmart,Technology,1927,336.16,48,"Machine Learning, Cloud, Automation, Blockchain",Low
+Amazon,Technology,1928,328.27,69,"Machine Learning, IoT, Cybersecurity, ERP",Medium
+Apple,Finance,1919,384.62,90,"IoT, AI, ERP, Automation",High
+Samsung Electronics,Manufacturing,1907,530.93,59,"ERP, Blockchain, DevOps, AI",Low
+Toyota Motor,Consulting,1973,441.29,83,"Big Data, Blockchain, AI, DevOps",High
+Volkswagen,Automobile,1975,418.24,52,"Big Data, DevOps, Cloud, Blockchain",Low
+BP,Manufacturing,1974,378.91,90,"IoT, Automation, ERP, DevOps",High
+Shell,Consulting,1999,515.11,57,"AI, Machine Learning, ERP, Cybersecurity",Low
+Microsoft,Healthcare,1901,304.59,62,"Cloud, Machine Learning, Blockchain, Automation",Medium
+Alphabet,Healthcare,1959,93.05,77,"Machine Learning, Cybersecurity, Blockchain, Big Data",High
+Exxon Mobil,Manufacturing,1893,252.64,69,"Cybersecurity, Big Data, ERP, IoT",Medium
+Chevron,Healthcare,2002,454.65,91,"ERP, IoT, Cloud, Machine Learning",High
+Reliance Industries,Healthcare,1900,485.8,60,"AI, Cloud, Blockchain, IoT",Medium
+Tata Motors,Consulting,1990,474.34,60,"Machine Learning, DevOps, Cloud, Blockchain",Medium
+Infosys,Automobile,1922,454.43,76,"Machine Learning, Cybersecurity, AI, DevOps",High
+Accenture,Healthcare,1980,27.39,65,"ERP, Cybersecurity, DevOps, Automation",Medium
+IBM,Technology,1974,79.85,46,"Machine Learning, AI, Automation, Big Data",Low
+Intel,Healthcare,1924,464.02,45,"IoT, Blockchain, DevOps, Cloud",Low
+Cisco,Manufacturing,1937,141.2,88,"Machine Learning, Big Data, Cybersecurity, IoT",High
+Oracle,Retail,1895,334.85,77,"Big Data, IoT, Blockchain, ERP",High
+Meta,Finance,1955,190.85,81,"IoT, Blockchain, Big Data, AI",High
+Netflix,Manufacturing,1918,299.12,78,"Blockchain, Big Data, ERP, AI",High
+Adobe,Energy,1943,558.15,61,"Cloud, DevOps, Automation, ERP",Medium
+Salesforce,Healthcare,1944,474.65,73,"Machine Learning, Automation, Cloud, DevOps",Medium
+Sony,Consulting,1927,419.62,93,"Automation, Blockchain, Cybersecurity, AI",High
+LG Electronics,Energy,1978,338.0,93,"Cybersecurity, ERP, IoT, Big Data",High
+BMW,Manufacturing,1994,242.68,50,"Machine Learning, DevOps, Blockchain, ERP",Low
+Mercedes-Benz,Healthcare,1976,517.3,59,"Cloud, Automation, AI, Machine Learning",Low
+Ford,Finance,1917,296.01,48,"ERP, DevOps, AI, Cybersecurity",Low
+General Motors,Manufacturing,1912,368.01,47,"AI, Big Data, Cloud, Blockchain",Low
+Siemens,Automobile,1890,566.18,78,"AI, IoT, Cloud, Automation",High
+Bosch,Technology,2005,355.05,64,"DevOps, Big Data, Cybersecurity, Blockchain",Medium
+Hitachi,Technology,1922,457.29,88,"Cloud, Blockchain, DevOps, AI",High
+Panasonic,Healthcare,1931,587.78,87,"Blockchain, Cybersecurity, Machine Learning, AI",High
+Philips,Consulting,1967,591.31,94,"IoT, ERP, Cloud, Cybersecurity",High
+Pfizer,Automobile,1981,480.09,83,"Blockchain, DevOps, IoT, Automation",High
+Johnson & Johnson,Technology,1999,414.85,70,"AI, Blockchain, Cybersecurity, Automation",Medium
+Roche,Automobile,1965,273.57,50,"DevOps, ERP, Machine Learning, AI",Low
+Novartis,Manufacturing,1990,219.17,71,"ERP, AI, Cybersecurity, Big Data",Medium
+Merck,Manufacturing,1984,418.28,62,"IoT, Blockchain, AI, Cloud",Medium
+HSBC,Automobile,1922,540.07,70,"Big Data, Blockchain, DevOps, AI",Medium
+JPMorgan Chase,Healthcare,1964,218.62,48,"ERP, Big Data, Cloud, DevOps",Low
+Goldman Sachs,Technology,1951,260.39,58,"Cloud, ERP, IoT, AI",Low
+Morgan Stanley,Healthcare,1998,64.48,64,"Cybersecurity, ERP, AI, Machine Learning",Medium
+Citi,Retail,1937,572.98,91,"IoT, Big Data, DevOps, ERP",High
+Visa,Automobile,1964,289.42,77,"Cloud, Blockchain, Cybersecurity, Automation",High
+Mastercard,Automobile,1993,513.44,75,"Machine Learning, Cybersecurity, DevOps, IoT",High
+PayPal,Energy,1909,193.78,95,"Blockchain, Cybersecurity, IoT, Cloud",High
+American Express,Automobile,1944,528.84,94,"ERP, Cybersecurity, DevOps, AI",High
+BlackRock,Automobile,1993,167.8,79,"ERP, Cloud, Blockchain, Cybersecurity",High
+Deloitte,Finance,1965,407.19,65,"Machine Learning, ERP, DevOps, IoT",Medium
+EY,Automobile,1904,114.57,49,"Blockchain, Automation, Big Data, AI",Low
+PwC,Finance,1984,523.69,70,"IoT, Machine Learning, Cloud, DevOps",Medium
+KPMG,Automobile,1909,530.98,76,"IoT, Cloud, Machine Learning, Big Data",High
+Capgemini,Manufacturing,1934,82.03,76,"Cloud, AI, Big Data, Machine Learning",High
